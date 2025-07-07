@@ -1,4 +1,4 @@
-## Hi there 👋
+## about me
 
 <!--
 **Martin12800/Martin12800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
